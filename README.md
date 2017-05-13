@@ -9,12 +9,12 @@ Usually it's used as dependency of other plugins.
 
 You can use it as dependency of another plugin by reference in plugin.xml:
 ```xml
-<dependency id="cordova-facebook-audnet-sdk"/>
+<dependency id="cordova-facebook-audience-network"/>
 ```
 
 Or, you can also add it manually with Cordova CLI:
 ```bash
-cordova plugin add cordova-facebook-audnet-sdk
+cordova plugin add cordova-facebook-audience-network
 ```
 
 # How to Update

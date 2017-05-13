@@ -1,9 +1,9 @@
 {
-  "name": "cordova-facebook-audnet-sdk",
-  "version": "4.7.0",
+  "name": "cordova-facebook-audience-network-sdk",
+  "version": "4.22.0",
   "description": "Add Facebook AudienceNetwork SDK to Cordova porject, as dependency for other plugins",
   "cordova": {
-    "id": "cordova-facebook-audnet-sdk",
+    "id": "cordova-facebook-audience-network",
     "platforms": [
       "android",
       "amazon-fireos",
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/floatinghotpot/cordova-facebook-audnet-sdk.git"
+    "url": "https://github.com/TearDesign/cordova-facebook-audnet-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/floatinghotpot/cordova-facebook-audnet-sdk/issues"
+    "url": "https://github.com/TearDesign/cordova-facebook-audnet-sdk/issues"
   },
   "keywords": [
     "cordova",
@@ -24,11 +24,10 @@
     "audiencenetwork",
     "fb",
     "audnet",
-    "rjfun",
     "sdk"
   ],
   "author": {
-    "name": "Liming Xie"
+    "name": "Liming Xie + Andy Epifani"
   },
   "license": "MIT"
 }
